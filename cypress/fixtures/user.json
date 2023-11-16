@@ -1,0 +1,12 @@
+{
+    "firstName": "Omar",
+    "lastName":"Rodriguez Soberanes",
+    "email": "omar.rodsob@gmail.com",
+    "phone": "+5216621393007",
+    "cLetter":"This job application was fully automated with cypress, you can check the code in the following git repository: https://github.com/omar-rodsob/testlio",
+    "location":"Guadalajara, Mexico central time",
+    "hourrate":"35",
+    "linkedinProfile":"https://www.linkedin.com/in/omarrodsob/",
+    "experience":"Self motivated front end developer with more than 10 years of experience and start with QA automation and integration testing since 2020, working with cross functional teams, working in agile environments more than 6 years, passionate for the front end technologies, on web browser and mobile, keep focus on both personal and team growth, working in close collaboration with business, designers and back end developers. \\nTools:Jira,Qtest,postman,gitlab,cypress,webdriveio \\nthis job application was fully automated with cypress, you can check the code in the following git repository: https://github.com/omar-rodsob/testlio",
+    "workingStatus":"unmployee"
+  }
